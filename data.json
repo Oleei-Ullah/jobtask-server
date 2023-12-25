@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Complete Project Proposal",
+      "description": "Draft and submit the project proposal to the client for approval.",
+      "deadline": "2023-01-15T18:00:00.000Z",
+      "priority": "medium",
+      "author": "John Doe",
+      "authorEmail": "sheikhsuzan71@gmail.com",
+      "status": "todos"
+    },
+    {
+      "title": "Review Design Mockups",
+      "description": "Provide feedback on the latest design mockups for the website redesign.",
+      "deadline": "2023-01-20T12:00:00.000Z",
+      "priority": "high",
+      "author": "Jane Smith",
+      "authorEmail": "sheikhsuzan71@gmail.com",
+      "status": "ongoing"
+    },
+    {
+      "title": "Update Monthly Reports",
+      "description": "Compile and update the monthly performance reports for the team.",
+      "deadline": "2023-01-25T15:30:00.000Z",
+      "priority": "low",
+      "author": "Bob Johnson",
+      "authorEmail": "sheikhsuzan71@gmail.com",
+      "status": "todos"
+    },
+    {
+      "title": "Client Meeting Preparation",
+      "description": "Prepare presentation materials and agenda for the upcoming client meeting.",
+      "deadline": "2023-01-18T14:00:00.000Z",
+      "priority": "high",
+      "author": "Alice Brown",
+      "authorEmail": "sheikmubin97@gmail.com",
+      "status": "completed"
+    }
+  ]
