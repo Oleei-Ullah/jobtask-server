@@ -21,6 +21,9 @@ router.route('/update/:id')
 router.route('/tasks')
 .get(taskController.getmytasks)
 
+router.route('/addtask')
+.post(taskController.addTasks)
+
 
 router.route('/deleteproduct/:id')
 .delete(taskController.deleteTask)
